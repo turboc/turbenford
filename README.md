@@ -1,0 +1,1 @@
+Brincando com a lei de benford em casos aleatórios
